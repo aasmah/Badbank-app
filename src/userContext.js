@@ -1,6 +1,7 @@
 import { createContext, useState } from "react";
 
-//Sample Data
+//Sample Data 
+// not using for  now
 // import users from "../data/user";
 const UserContext = createContext({});
 
